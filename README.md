@@ -1,0 +1,1 @@
+4. 🛵 Rider App Simulata come schermata mobile (390×844). Include toggle online/offline, schede uppdrag con pickup/dropoff, accettazione ordine, mappa con animazione percorso e rider pin, step-by-step della consegna, pagina intäkter e profilo.
